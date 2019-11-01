@@ -1,0 +1,5 @@
+SET a 1
+SET c 2
+SET b 3
+LIST KEYS
+BYE

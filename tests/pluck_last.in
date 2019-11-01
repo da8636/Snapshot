@@ -1,0 +1,4 @@
+SET a 1 2 3
+PLUCK a 3
+GET a
+BYE

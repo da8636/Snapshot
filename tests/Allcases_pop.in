@@ -1,0 +1,9 @@
+SET a 1 2 3
+POP a
+GET a
+POP a
+GET a
+POP a
+GET a
+POP a
+BYE

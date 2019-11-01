@@ -1,0 +1,6 @@
+SET a 5 4 7
+MIN a
+MAX a
+SUM a
+LEN a
+BYE
